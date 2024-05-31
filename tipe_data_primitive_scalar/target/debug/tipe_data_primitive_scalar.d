@@ -1,0 +1,1 @@
+/home/rnrifai/Documents/Github/rust-documentation/tipe_data_primitive_scalar/target/debug/tipe_data_primitive_scalar: /home/rnrifai/Documents/Github/rust-documentation/tipe_data_primitive_scalar/src/main.rs

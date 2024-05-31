@@ -1,0 +1,1 @@
+/home/rnrifai/Documents/Github/rust-documentation/tipe_data_string_literal/target/debug/tipe_data_string_literal: /home/rnrifai/Documents/Github/rust-documentation/tipe_data_string_literal/src/main.rs
